@@ -40,7 +40,7 @@ export default function Routes(props) {
       <Switch>
         <Route path="/" exact>
         <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNykePOiTDzB8JZ-BssrgCFB3KF5xsYCGi-w&usqp=CAU"
+      src="https://tse1.mm.bing.net/th?id=OIP.R7qzIjoNvygCfkjHJKirPAHaEo&pid=Api&P=0&w=274&h=171"
       className="img-fluid"
       style={{ width: 1500 }}
     />
